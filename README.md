@@ -24,6 +24,7 @@ body -{
 
 endpoint for updating invoice status- 
 localhost:5000/update_status
+
 body-{
     "id":"61f12bf5f33aa4f09ec93d6d",
     "status":"late"
@@ -32,6 +33,7 @@ body-{
 
 endpoint for getting invoice by id -
 localhost:5000/get_invoice_byId
+
 body-{
     "id":"61f12bf5f33aa4f09ec93d6d"
 }
