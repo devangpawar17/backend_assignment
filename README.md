@@ -1,6 +1,8 @@
 # backend_assignment
 wrytin backend assignment
 
+clone repo and npm install to use below endpoints
+
 
 API documentation
 
