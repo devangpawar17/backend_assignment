@@ -1,12 +1,12 @@
 # backend_assignment
 wrytin backend assignment
 
-clone repo and npm install to use below endpoints
+**clone repo and npm install to use below endpoints**
 
 
-API documentation
+**API documentation**
 
-endpoint for adding invoice -
+**endpoint for adding invoice -**
 localhost:5000/new_invoice
 
 body -{
@@ -24,7 +24,7 @@ body -{
 }
 
 
-endpoint for updating invoice status- 
+**endpoint for updating invoice status- **
 localhost:5000/update_status
 
 body-{
@@ -33,7 +33,7 @@ body-{
 }
 
 
-endpoint for getting invoice by id -
+**endpoint for getting invoice by id -**
 localhost:5000/get_invoice_byId
 
 body-{
